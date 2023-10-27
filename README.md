@@ -14,7 +14,6 @@ Technologies used daily (🔢):
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![NodeJs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker)
 
 </p>
