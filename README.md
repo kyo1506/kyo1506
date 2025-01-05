@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Vinicius Pinheiro Freire, a 23-year-old originally from São Paulo, Brazil. Currently, I reside in Rio Grande, Rio Grande do Sul.<br><br>- 🔭 I’m working as IT Consultant Senior at Pitang.<br>- 📚 I'm currently learning Software Engineering.<br>- ⚡ In my free time I like to watch animes, horror movies, read philosophy books, and play CS GO.<br><br>I just wanna be myself. 🧠 <br>— Me</p>
+<p align="left">My name is Vinicius Pinheiro Freire, a 23-year-old originally from São Paulo, Brazil. Currently, I live in Rio Grande, Rio Grande do Sul.<br><br>- 🔭 I’m working as IT Consultant Senior at Pitang.<br>- 📚 I'm doing a postgraduate course in NET Systems Architecture at FIAP.<br>- ⚡ In my free time I like to watch animes, horror movies, read philosophy books, and play CS GO.<br><br>I just wanna be myself. 🧠 <br>— Me</p>
 
 ###
 
